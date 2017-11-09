@@ -1,0 +1,28 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "---------------------------------------" )
+	call Preload( "游戏ID: 风雨欲" )
+	call Preload( "游戏版本: 世界RPG v0.24j4中文版" )
+	call Preload( "兼容版本: 0.24f~" )
+	call Preload( "职业: 魅影十字军" )
+	call Preload( "等级: 240" )
+	call Preload( "当前经验值/升级所需经验值: 2897925 / 2916000" )
+	call Preload( "敬告1: 请养成保存装备及材料掉落截图和游戏录像的习惯，并发至百度世界RPG吧" )
+	call Preload( "敬告2: 如果这款游戏让你喜爱有加，请支持正版！您的支持将是游戏不断更新完善的动力，也能助您从游戏中真正体验世界之路的魔力！" )
+	call Preload( "---------------------------------------" )
+	call Preload( "物品 2. 冰霜盔甲" )
+	call Preload( "物品 3. 金刚趾甲" )
+	call Preload( "物品 4. 死亡头盔" )
+	call Preload( "物品 5. 自然之翼" )
+	call Preload( "物品 6. 瑞文戒指" )
+	call Preload( "---------------------------------------" )
+	call Preload( "物品 1. 瑞文长剑" )
+	call Preload( "物品 19. 九头蛇的鳞片" )
+	call Preload( "物品 20. 波纹鞋" )
+	call Preload( "---------------------------------------" )
+	call Preload( "保存代码: -load $mXxh-2uQp?-wR#pN-MMes$-@8U$f-LEvpj-wSp" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
