@@ -19,7 +19,7 @@ function PreloadFiles takes nothing returns nothing
 	call Preload( "物品 4. 生锈的魔法镐" )
 	call Preload( "物品 8. 九头蛇的毒牙" )
 	call Preload( "---------------------------------------" )
-	call Preload( "保存代码: -load qN$lz-ZbcR3-sqXcU-oF$0O-hfoot-TWav1-&%q" )
+	call Preload( "保存代码: -load gBijn-8ilUT-Gy345-GGz3%-rq#Pr-0HN&j-wdz" )
 	call PreloadEnd( 0.0 )
 
 endfunction
