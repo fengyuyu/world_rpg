@@ -6,7 +6,7 @@ function PreloadFiles takes nothing returns nothing
 	call Preload( "兼容版本: v0.24f~" )
 	call Preload( "职业: 机械师" )
 	call Preload( "等级: 407" )
-	call Preload( "当前经验值/升级所需经验值: 8310452 / 8343500" )
+	call Preload( "当前经验值/升级所需经验值: 8315348 / 8343500" )
 	call Preload( "敬告1: 请养成保存装备及材料掉落截图和游戏录像的习惯，并发至百度世界RPG吧" )
 	call Preload( "敬告2: 如果这款游戏让你喜爱有加，请支持正版！您的支持将是游戏不断更新完善的动力，也能助您从游戏中真正体验世界之路的魔力！" )
 	call Preload( "---------------------------------------" )
@@ -32,9 +32,10 @@ function PreloadFiles takes nothing returns nothing
 	call Preload( "物品 14. 生锈的魔法镐" )
 	call Preload( "物品 15. 学习用的矿镐" )
 	call Preload( "物品 16. 元素头巾" )
-	call Preload( "物品 19. 未完成的狂暴药剂" )
+	call Preload( "物品 17. 黑暗之翼" )
+	call Preload( "物品 18. 未完成的狂暴药剂" )
 	call Preload( "---------------------------------------" )
-	call Preload( "保存代码: -load vqYuG-gC&Tu-2OXBP-Pghrg-WhAG#-69DxT-Y$QbX-xCzGV-uzFgT-3?oBR-cAY8?-MNNX" )
+	call Preload( "保存代码: -load gN3yr-#dnzV-KFsmg-o22P4-6i#oA-gF$iD-iEKnt-HPf5B-tndAK-TaQ6a-#5sE&-Ddz@e-?" )
 	call PreloadEnd( 0.0 )
 
 endfunction
